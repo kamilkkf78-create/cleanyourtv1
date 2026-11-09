@@ -21,6 +21,7 @@
     <item>com.netflix.ninja</item>
     <item>com.google.android.youtube.tv</item>
     <item>com.amazon.amazonvideo.livingroom</item>
+        </resources>
 </string-array>
     </string-array>
     <!-- With fewer dock_apps than columns (or a dock app that is not installed), the free dock slots take
