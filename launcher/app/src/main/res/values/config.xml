@@ -21,9 +21,8 @@
     <item>com.netflix.ninja</item>
     <item>com.google.android.youtube.tv</item>
     <item>com.amazon.amazonvideo.livingroom</item>
-        </resources>
 </string-array>
-    </string-array>
+    <resources>
     <!-- With fewer dock_apps than columns (or a dock app that is not installed), the free dock slots take
          the first grid apps, so the dock never shows a gap. false leaves them empty (#162); a theme can
          set "fill_dock": false. -->
